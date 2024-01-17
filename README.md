@@ -1,7 +1,7 @@
 # 2d game of lif by frag shader
 A simulation of Conway's Game of Life. By fragment shader of Unity.
 
-![image](https://github.com/arakido/2D_GameOfLife/master/show.gif)
+![image](https://github.com/arakido/2D_GameOfLife/blob/main/show.gif)
 
 Look https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
